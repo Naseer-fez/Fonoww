@@ -196,7 +196,6 @@ class AssignmentCard extends StatelessWidget {
                   size: 20,
                   color: isDark ? const Color(0xFF7E849E) : const Color(0xFFA0A5BA),
                 ),
-                splashRadius: 20,
                 onPressed: () => _confirmDelete(context),
               ),
           ],

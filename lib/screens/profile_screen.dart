@@ -313,7 +313,6 @@ class ProfileScreen extends StatelessWidget {
                 color: isDark ? const Color(0xFF969AB0) : const Color(0xFF85899B),
               ),
             ),
-            activeColor: AppTheme.primaryAccent,
           ),
           const Divider(height: 1),
 
@@ -348,7 +347,6 @@ class ProfileScreen extends StatelessWidget {
                 color: isDark ? const Color(0xFF969AB0) : const Color(0xFF85899B),
               ),
             ),
-            activeColor: AppTheme.primaryAccent,
           ),
         ],
       ),
